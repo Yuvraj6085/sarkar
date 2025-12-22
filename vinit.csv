@@ -1,0 +1,9 @@
+StudentID,Name,Gender,Age,Course,Year,Marks,Attendance,City,FeePaid,Scholarship,ExamDate,Remarks
+1,Riya,Female,20,BCA,1,85,92,Jaipur,Yes,No,2024-03-15,Good
+2,Aman,Male,22,BCA,2,78,85,Delhi,Yes,No,2024-03-15,Average
+3,Pooja,Female,21,BSc,2,92,96,Jaipur,Yes,Yes,2024-03-16,Excellent
+4,Rahul,Male,23,BCA,3,67,70,Mumbai,No,No,2024-03-16,Needs Improvement
+5,Neha,Female,20,BSc,1,88,90,Delhi,Yes,Yes,2024-03-15,Good
+6,Karan,Male,21,BCA,2,,60,Jaipur,No,No,2024-03-16,Absent
+7,Anjali,Female,22,BSc,3,95,98,Mumbai,Yes,Yes,2024-03-17,Topper
+8,Vikas,Male,24,BCA,3,55,65,Delhi,No,No,2024-03-17,Weak
